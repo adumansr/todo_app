@@ -594,7 +594,7 @@ select {
 }
 
 .fa-github {
-  color: black;
+  color: white;
   font-size: 24px;
   transition: transform 0.3s ease-in-out;
 }
